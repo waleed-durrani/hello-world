@@ -1,2 +1,2 @@
 # hello-world
-The first repository
+The first repository ever made
